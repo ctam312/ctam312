@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how I got here!
 - 📫 How to reach me: linkedin.com/ctam312
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I used to run a website when I was 11 where I'd review tech products and video games. 
+- ⚡ Fun fact: I used to run a website when I was 10 where I'd review tech products and video games. 
 -->
