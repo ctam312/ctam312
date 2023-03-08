@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on adding new features to my projects.
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on fun projects.
+- 🔭 I’m currently working on adding new features to my Goatnote and AirBnB projects.
+- 🌱 I’m currently learning AWS and Socket.io
 - 🤔 I’m looking for help with connections and job opportunities.
-- 💬 Ask me about how I got here!
+- 💬 Ask me about how I ended up being a software engineer!
 - 📫 How to reach me: linkedin.com/ctam312
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I used to run a website when I was 11 where I'd review tech products and video games.
