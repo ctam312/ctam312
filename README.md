@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=943AFF&width=435&lines=Hi+there%2C+I'm+Christian%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=943AFF&center=true&width=500&lines=Hi+there%2C+I'm+Christian%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on adding new features to my Goatnote and AirBnB projects.
 - 🌱 I’m currently learning AWS and Socket.io
